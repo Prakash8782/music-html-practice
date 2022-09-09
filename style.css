@@ -1,0 +1,13 @@
+body{
+    width: 0px;
+    height: 0px;
+    font-family:sans-serif ;
+}
+.container{
+    width: 1320px;
+    height: 630px;
+    background-image: url(image/rolex.avif); 
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
